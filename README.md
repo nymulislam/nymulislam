@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://your-animated-banner-url" alt="Naymul Islam - TailwindCSS | React | Node.js" />
+  <img src="bggif.svg" alt="Naymul Islam - TailwindCSS | React | Node.js" />
 </p>
 
 <!-- Header -->
