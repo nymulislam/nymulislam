@@ -7,17 +7,27 @@
 <h1 align="center">Hi 👋, I'm NAYMUL ISLAM</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<br />
+
+<br />
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nymulislam&label=Profile%20views&color=0e75b6&style=flat" alt="nymulislam" />
 </p>
-
 <!-- GitHub Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nymulislam&margin-w=20" alt="nymulislam" />
   </a>
 </p>
+
+
+<br />
+
+<br />
+
+<br />
 
 <!-- Learning, Expertise, and Contact Information -->
 > 🌱 Currently learning **Next.js**
@@ -26,27 +36,50 @@
 
 > 📫 How to reach me: **naymulislam241@gmail.com**
 
+
+<br />
+
+<br />
+
+<br />
+
 <!-- Connect with Me -->
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/nymulislam" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nymulislam" height="30" width="40" />
   </a>
 </p>
 
+
+<br />
+
+<br />
+
+<br />
+
+
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add your icons here -->
+<h2 align="left">Languages and Tools:</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,react,firebase,mongodb,nodejs" />
+  </a>
 </p>
 
-<!-- GitHub Stats -->
+
+<br />
+
+<br />
+
+<br />
+
+<!-- Current Stats -->
+
+<h2 align="left">:chart_with_upwards_trend: Current Stats:</h2>
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nymulislam&show_icons=true&locale=en&layout=compact" alt="nymulislam" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nymulislam&show_icons=true&locale=en" alt="nymulislam" />
 </p>
 
 <p align="left">
