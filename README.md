@@ -15,14 +15,16 @@
 <!-- GitHub Trophies -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nymulislam" alt="nymulislam" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nymulislam&margin-w=20" alt="nymulislam" />
   </a>
 </p>
 
 <!-- Learning, Expertise, and Contact Information -->
-- 🌱 Currently learning **Next.js**
-- 💬 Ask me about **JavaScript, React, MongoDB**
-- 📫 How to reach me: **naymulislam241@gmail.com**
+> 🌱 Currently learning **Next.js**
+
+> 💬 Ask me about **JavaScript, React, MongoDB**
+
+> 📫 How to reach me: **naymulislam241@gmail.com**
 
 <!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
