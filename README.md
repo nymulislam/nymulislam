@@ -1,32 +1,3 @@
-<!-- Animated Banner -->
-<a href="https://linkedin.com/in/nymulislam">
-<p align="center">
-  <img src="bggif.svg" alt="Naymul Islam - TailwindCSS | React | Node.js" />
-</p>
-</a>
-
-<br />
-
-<br />
-
-
-<!-- Languages and Tools -->
-<h2 align="left">🛠️ Languages and Tools:</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,react,firebase,mongodb,nodejs" />
-  </a>
-</p>
-
-
-<br />
-
-<br />
-
-<br />
-
-
 <!-- Current Stats -->
 
 <h2 align="left">📈 Current Stats:</h2>
@@ -60,6 +31,20 @@
 
 <br />
 
+
+<!-- Languages and Tools -->
+<h2 align="left">🛠️ Languages and Tools:</h2>
+<br />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,js,react,firebase,mongodb,nodejs" />
+  </a>
+</p>
+
+<br />
+
+<br />
+
 <!-- Connect with Me -->
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
@@ -71,7 +56,4 @@
 
 <br />
 
-
-
-
-
+<br />
