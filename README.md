@@ -31,7 +31,14 @@
 
 <h2 align="left">📈 Current Stats:</h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nymulislam&theme=graywhite&short_numbers=true&card_height=200" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=transparent"/>
+</a>
+  
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=nymulislam&theme=graywhite&short_numbers=true&card_height=200" alt="GitHub Streak" />
+</a>
+
 <br />
 
 <br />
