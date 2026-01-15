@@ -71,23 +71,6 @@
 
 <br />
 
-<br />
-
-<br />
-
-<br />
-
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=nymulislam&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</p>
-<!-- GitHub Trophies -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nymulislam&margin-w=20" alt="nymulislam" />
-  </a>
-</p>
 
 
 
