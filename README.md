@@ -18,7 +18,7 @@
 <!-- Learning, Expertise -->
 <h2 align="left">🚀 Learning and Expertise:</h2>
 
-> 🌱 Currently learning **Next.js**
+> 🌱 Currently learning **CSS3 & JavaScript**
 
 > 💬 Ask me about **JavaScript, React, MongoDB**
 
