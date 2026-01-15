@@ -31,14 +31,9 @@
 
 <h2 align="left">📈 Current Stats:</h2>
 <div align="center">
-  
-  
-<a href="https://git.io/streak-stats">
-<img align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=graywhite&short_numbers=true&card_height=200" alt="GitHub Streak" />
-</a>
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=graywhite"/>
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=transparent"/>
 </a>
 
 <br />
@@ -46,7 +41,7 @@
 <br />
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nymulislam&show_icons=true&locale=en&layout=compact&langs_count=8&theme=graywhite" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nymulislam&show_icons=true&locale=en&layout=compact&langs_count=8&theme=transparent" />
 </a>
 
 </div>
