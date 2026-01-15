@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=transparent"/>
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=transparent&short_numbers=true"/>
 </a>
 
 </div>
