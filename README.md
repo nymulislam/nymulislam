@@ -1,19 +1,3 @@
-<!-- Current Stats -->
-
-<h2 align="left">📈 Current Stats:</h2>
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=transparent&short_numbers=true"/></a>
-
-
-</div>
-
-<br />
-
-<br />
-
-<br />
-
 <!-- Learning, Expertise -->
 <h2 align="left">🚀 Learning and Expertise:</h2>
 
@@ -23,6 +7,23 @@
 
 > 📫 How to reach me: **naymulislam241@gmail.com**
 
+
+<br />
+
+<br />
+
+<br />
+
+
+<!-- Current Stats -->
+
+<h2 align="left">📈 Current Stats:</h2>
+<div align="center">
+
+<a href="https://git.io/streak-stats"><img height=200 align="center" src="https://streak-stats.demolab.com?user=nymulislam&theme=transparent&short_numbers=true"/></a>
+
+
+</div>
 
 <br />
 
