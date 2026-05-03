@@ -1,9 +1,9 @@
 <!-- Learning, Expertise -->
 <h2 align="left">🚀 Learning and Expertise:</h2>
 
-> 🌱 Currently learning **CSS3 & JavaScript**
+> 🌱 Currently learning **Next.js & BETTER-AUTH.**
 
-> 💬 Ask me about **JavaScript, React, MongoDB**
+> 💬 Ask me about **JavaScript, React, Next.js, MongoDB**
 
 > 📫 How to reach me: **naymulislam241@gmail.com**
 
