@@ -100,6 +100,10 @@ while(alive) {
   <a href="https://www.facebook.com/naym4islam" target="_blank">
     <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=48&animation=glow&reverseBackground=true&showText=true" />
   </a>
+
+  <a href="https://wa.me/8801989049397?text=Assalamu%20Alaikum%2C%20I%E2%80%99m%20Naymul%20Islam%2C%20a%20MERN%20Stack%20Developer.%20I%E2%80%99d%20like%20to%20discuss%20a%20potential%20project%20or%20collaboration%20with%20you." target="_blank">
+<img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&animation=glow&reverseBackground=true&showText=true&link=https%3A%2F%2Fwa.me%2F8801989049397%3Ftext%3DAssalamu%2520Alaikum%252C%2520I%25E2%2580%2599m%2520Naymul%2520Islam%252C%2520a%2520MERN%2520Stack%2520Developer.%2520I%25E2%2580%2599d%2520like%2520to%2520discuss%2520a%2520potential%2520project%2520or%2520collaboration%2520with%2520you." alt="whatsapp" />
+</a>
 </p>
 
 ---
