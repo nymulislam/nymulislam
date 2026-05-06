@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" />
+  <img src="https://res.cloudinary.com/dn94gxfkb/image/upload/v1778085615/github_banner_2_x9avei.gif" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Naymul+Islam;MERN+Stack+Developer;Full+Stack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=22d3ee&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Naymul+Islam;MERN+Stack+Developer;Full+Stack+Explorer" alt="Typing SVG" />
 </h1>
 <p align="center">
   <strong>🚀 Learner & Explorer | 💻 Focused on MERN Stack Development | 🧠 Love to think and build</strong>
