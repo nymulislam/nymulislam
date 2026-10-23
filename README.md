@@ -1,114 +1,192 @@
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://res.cloudinary.com/dn94gxfkb/image/upload/v1778085615/github_banner_2_x9avei.gif" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&pause=1000&color=22d3ee&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Naymul+Islam;MERN+Stack+Developer;Full+Stack+Explorer" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <strong>🚀 Learner & Explorer | 💻 Focused on MERN Stack Development | 🧠 Love to think and build</strong>
+  <img src="https://i.ibb.co.com/dwMD4s06/Developer-writing-text-on-wall-lofi.gif" width="800" alt="Naymul Islam Header Banner" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nymulislam&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="nymulislam" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=C2703D&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+from+Dhaka;Next.js+%7C+TypeScript+%7C+Supabase+%7C+MERN;Building+with+Agentic+AI+Workflows;Learner+%26+Explorer+%E2%80%A2+Love+to+think+and+build" alt="Typing intro" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nymulislam&label=PROFILE%20VIEWS&color=C2703D&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Dhaka-C2703D?style=for-the-badge" alt="Open to Work" />
+</p>
 
-###  Tech Stack
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
 
-<p align="center" style="margin-right: 0px; margin-left:50px">
+## 💻 Tech Stack
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb," />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,supabase,git,github,vercel,linux" alt="Skill Icons" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Modern Libraries & Ecosystem:</strong><br>
-  <code>DaisyUI</code> • <code>Hero UI</code> • <code>Framer Motion</code> • <code>Better Auth</code>
+  <strong>Modern Libraries &amp; Ecosystem</strong><br><br>
+  <code>DaisyUI</code> • <code>Hero UI</code> • <code>Framer Motion</code> • <code>Better Auth</code> • <code>React Native / Expo</code>
 </p>
 
----
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
 
-### About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="60%">
-        <p>
-            I'm a <strong>MERN Stack Developer</strong> who loves learning and building new things. I enjoy solving problems and exploring modern web technologies to create clean and efficient applications.
-        </p>
+      <p>
+        Hi, I'm <strong>Naym</strong> — a <strong>Full-Stack Developer</strong> from Dhaka. I build web and mobile apps, and explore AI agents to work smarter and faster.
+      </p>
       <ul>
-        <li>🔭 Currently working on: <strong>Darul Hikmah Islamic Academy</strong> & <strong>An-Nujum Foundation Portal</strong>.</li>
-        <li>🌱 Learning: <strong>Advanced Fullstack Patterns & Better Auth</strong></li>
-        <li>💬 Let's talk about: <strong>React, Next.js, or Tailwind</strong></li>
-        <li>⚡ Fun fact: I have a soft spot for clean architecture and the tactile feel of mechanical keyboards!</li>
+        <li>🔭 <strong>Building:</strong> <a href="https://learnhikmah.com">LearnHikmah</a>, <a href="https://github.com/balzo-app">Balzo</a>, and leading tech at <strong>An-Nujum Foundation</strong>.</li>
+        <li>🌱 <strong>Exploring:</strong> Agentic AI workflows &amp; modern backend patterns.</li>
+        <li>💬 <strong>Let's chat:</strong> Architecture trade-offs, clean schemas, or building with AI agents.</li>
+        <li>🌿 <strong>In my quiet time:</strong> Studying the Quran, trying to practice what I learn.</li>
       </ul>
     </td>
     <td width="40%">
-      <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="100%" />
+      <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="100%" alt="Coding workspace illustration" />
     </td>
   </tr>
 </table>
 
----
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
 
-##  Visual Journey
+## 🧭 Now
+
+| | |
+|---|---|
+| 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
+| 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
+| 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-24<!--UPDATED_END--> |
+
+<!--AYAH_START-->
+<p align="center">
+  <sub>✦ AYAH OF THE DAY ✦</sub>
+</p>
+<h3 align="center" dir="rtl">وَقُل رَّبِّ زِدْنِي عِلْمًا</h3>
+<p align="center"><i>and say, "My Lord, increase me in knowledge."</i></p>
+<p align="center"><sub>— Surah Ta-Ha 20:114</sub></p>
+<!--AYAH_END-->
+
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
+
+## 🚀 Selected Production Systems
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="100%" alt="Cozy Coding" />
-    </td>
-    <td width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" alt="Cyberpunk Vibe" />
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://learnhikmah.com"><img src="assets/projects/project-learnhikmah.svg" width="100%" alt="LearnHikmah preview" /></a>
+      <h3>📘 LearnHikmah</h3>
+      <p>Full-stack monorepo featuring an SSR portal and a secure LMS with strict RBAC.</p>
+      <p><b>Outcome:</b> sub-50ms edge-cached course catalog · strict role isolation across students, instructors &amp; admins</p>
+      <p>
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Flearnhikmah.com&up_message=live&down_message=offline&up_color=2E9E5B&down_color=B33A3A&style=flat-square&label=status" alt="status" />
+        <img src="https://img.shields.io/badge/Next.js-5A4636?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-C2703D?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/BetterAuth-5A4636?style=flat-square" alt="BetterAuth" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://an-nujum-foundation.vercel.app"><img src="assets/projects/project-an-nujum.svg" width="100%" alt="An-Nujum Foundation preview" /></a>
+      <h3>🤲 An-Nujum Foundation</h3>
+      <p>Public philanthropic portal designed for donor transparency and seamless mobile giving.</p>
+      <p><b>Outcome:</b> streamlined program publishing · donor transparency · mobile-first giving</p>
+      <p>
+        <img src="https://img.shields.io/website?url=https%3A%2F%2Fan-nujum-foundation.vercel.app&up_message=live&down_message=offline&up_color=2E9E5B&down_color=B33A3A&style=flat-square&label=status" alt="status" />
+        <img src="https://img.shields.io/badge/Next.js-5A4636?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Supabase-C2703D?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/HeroUI-5A4636?style=flat-square" alt="HeroUI" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/balzo-app"><img src="assets/projects/project-balzo.svg" width="100%" alt="Balzo preview" /></a>
+      <h3>💰 Balzo</h3>
+      <p>Modern finance app built solo with React Native, TypeScript, and Supabase RLS.</p>
+      <p><b>Outcome:</b> shared TypeScript financial contracts across mobile and the upcoming web app</p>
+      <p>
+        <img src="https://img.shields.io/badge/status-in%20development-C2703D?style=flat-square" alt="in development" />
+        <img src="https://img.shields.io/badge/React%20Native-C2703D?style=flat-square&logo=react&logoColor=white" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-5A4636?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/nymulislam?tab=repositories"><img src="assets/projects/project-open-source.svg" width="100%" alt="Open-source preview" /></a>
+      <h3>🧩 Open-Source Work</h3>
+      <p>Specialized tools spanning atomic e-commerce locks, digital healthcare, and AI agent workflows.</p>
+      <p><b>Outcome:</b> 40 repositories across 2 organizations</p>
+      <p>
+        <img src="https://img.shields.io/badge/MERN-5A4636?style=flat-square&logo=mongodb&logoColor=white" alt="MERN" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-C2703D?style=flat-square" alt="Agentic AI" />
+      </p>
+    </td>
+  </tr>
 </table>
 
----
+<details>
+  <summary><b>📂 More open-source projects (click to expand)</b></summary>
+  <br>
 
-## GitHub Analysis
+  - **E-Page** — MERN commerce app with atomic inventory locks
+  - **IlmMed** — healthcare web suite
+  - **Job Heaven** — recruitment web suite
+  - **Agentic AI tools** — deterministic tool-calling workflows
+</details>
+
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
+
+## 📊 By the Numbers
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nymulislam&theme=whatsapp-dark2&short_numbers=true" alt="Nymul Islam Streak" />
+  <img src="assets/ui/stats-card.svg" width="720" alt="Naymul Islam by the numbers" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nymulislam&hide_border=true&background=00000000&ring=C2703D&fire=C2703D&currStreakNum=C2703D&sideNums=C2703D&currStreakLabel=C2703D&sideLabels=9B8468&dates=9B8468" alt="GitHub Streak" />
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nymulislam/nymulislam/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/nymulislam/nymulislam/output/github-snake.svg" />
+  </picture>
+</p>
 
-###  Dev Philosophy
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
 
-```bash
-while(alive) {
+## 💡 Developer Philosophy
+
+```ts
+while (alive) {
   learn();
   build();
   stay_humble();
-  follow_islam();
+  seek_ihsan();
 }
 ```
 
----
+<img src="assets/ui/divider-v2.svg" width="100%" alt="" />
 
-##  Connect With Me
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nymulislam" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&animation=glow&reverseBackground=true&showText=true" />
+  <a href="https://linkedin.com/in/nymulislam" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&animation=glow&reverseBackground=true&showText=false" alt="LinkedIn" />
   </a>
-  
-  <a href="https://www.facebook.com/naym4islam" target="_blank">
-    <img src="https://www.readmecodegen.com/api/social-icon?name=facebook&size=48&animation=glow&reverseBackground=true&showText=true" />
+  &nbsp;
+  <a href="https://wa.me/8801822667737?text=Assalamu%20Alaikum%20Naymul%2C%20I%20reviewed%20your%20profile%20and%20would%20like%20to%20discuss%20an%20engineering%20opportunity%20or%20collaboration." target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=48&animation=glow&reverseBackground=true&showText=false" alt="WhatsApp" />
   </a>
-
-  <a href="https://wa.me/8801822667737?text=Assalamu%20Alaikum%2C%20I%E2%80%99m%20Naymul%20Islam%2C%20a%20MERN%20Stack%20Developer.%20I%E2%80%99d%20like%20to%20discuss%20a%20potential%20project%20or%20collaboration%20with%20you." target="_blank">
-<img src="https://www.readmecodegen.com/api/social-icon?name=whatsapp&animation=glow&reverseBackground=true&showText=true&link=https%3A%2F%2Fwa.me%2F8801989049397%3Ftext%3DAssalamu%2520Alaikum%252C%2520I%25E2%2580%2599m%2520Naymul%2520Islam%252C%2520a%2520MERN%2520Stack%2520Developer.%2520I%25E2%2580%2599d%2520like%2520to%2520discuss%2520a%2520potential%2520project%2520or%2520collaboration%2520with%2520you." alt="whatsapp" />
-</a>
+  &nbsp;
+  <a href="mailto:naymulislam241@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=48&animation=glow&reverseBackground=true&showText=false" alt="Gmail" />
+  </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="60px" /><br>
-  <i>Keep Coding, Keep Growing!</i>
+  <img src="assets/ui/footer-desert.svg" width="100%" alt="Peaceful desert dusk — وَقُل رَّبِّ زِدْنِي عِلْمًا" />
 </p>
