@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co.com/dwMD4s06/Developer-writing-text-on-wall-lofi.gif" width="800" alt="Naymul Islam Header Banner" />
+  <img src="https://i.ibb.co.com/nq8TMGD7/nymi-git-banner-v2.gif" width="100%" alt="Naymul Islam Header Banner" />
 </p>
 
 <p align="center">
@@ -119,6 +119,7 @@
       <h3>🧩 Open-Source Work</h3>
       <p>Specialized tools spanning atomic e-commerce locks, digital healthcare, and AI agent workflows.</p>
       <p><b>Outcome:</b> 40 repositories across 2 organizations</p>
+      &nbsp;
       <p>
         <img src="https://img.shields.io/badge/MERN-5A4636?style=flat-square&logo=mongodb&logoColor=white" alt="MERN" />
         <img src="https://img.shields.io/badge/Agentic%20AI-C2703D?style=flat-square" alt="Agentic AI" />
@@ -141,12 +142,14 @@
 
 ## 📊 By the Numbers
 
-<p align="center">
-  <img src="assets/ui/stats-card.svg" width="720" alt="Naymul Islam by the numbers" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nymulislam&hide_border=true&background=00000000&ring=C2703D&fire=C2703D&currStreakNum=C2703D&sideNums=C2703D&currStreakLabel=C2703D&sideLabels=9B8468&dates=9B8468" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="assets/ui/stats-card.svg" width="720" alt="Naymul Islam by the numbers" />
 </p>
 
 <p align="center">
