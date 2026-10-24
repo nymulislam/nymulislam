@@ -66,9 +66,10 @@
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَقُل رَّبِّ زِدْنِي عِلْمًا</h3>
-<p align="center"><i>and say, "My Lord, increase me in knowledge."</i></p>
-<p align="center"><sub>— Surah Ta-Ha 20:114</sub></p>
+<h3 align="center" dir="rtl">وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌۭ وَأَبْقَىٰ</h3>
+<p align="center"><i>And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring.</i></p>
+<p align="center">আমি এদের বিভিন্ন প্রকার লোককে পরীক্ষা করার জন্যে পার্থিবজীবনের সৌন্দর্য স্বরূপ ভোগ-বিলাসের যে উপকরণ দিয়েছি, আপনি সেই সব বস্তুর প্রতি দৃষ্টি নিক্ষেপ করবেন না। আপনার পালনকর্তার দেয়া রিযিক উৎকৃষ্ট ও অধিক স্থায়ী।</p>
+<p align="center"><sub>— Surah Taa-Haa 20:131</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
