@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-24<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-25<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًۭا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌۭ وَأَبْقَىٰ</h3>
-<p align="center"><i>And do not extend your eyes toward that by which We have given enjoyment to [some] categories of them, [its being but] the splendor of worldly life by which We test them. And the provision of your Lord is better and more enduring.</i></p>
-<p align="center">আমি এদের বিভিন্ন প্রকার লোককে পরীক্ষা করার জন্যে পার্থিবজীবনের সৌন্দর্য স্বরূপ ভোগ-বিলাসের যে উপকরণ দিয়েছি, আপনি সেই সব বস্তুর প্রতি দৃষ্টি নিক্ষেপ করবেন না। আপনার পালনকর্তার দেয়া রিযিক উৎকৃষ্ট ও অধিক স্থায়ী।</p>
-<p align="center"><sub>— Surah Taa-Haa 20:131</sub></p>
+<h3 align="center" dir="rtl">وَلَوْ نَشَآءُ لَمَسَخْنَٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّۭا وَلَا يَرْجِعُونَ</h3>
+<p align="center"><i>And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.</i></p>
+<p align="center">আমি ইচ্ছা করলে তাদেরকে স্ব স্ব স্থানে আকার বিকৃত করতে পারতাম, ফলে তারা আগেও চলতে পারত না এবং পেছনেও ফিরে যেতে পারত না।</p>
+<p align="center"><sub>— Surah Yaseen 36:67</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
