@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-25<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-26<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَلَوْ نَشَآءُ لَمَسَخْنَٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّۭا وَلَا يَرْجِعُونَ</h3>
-<p align="center"><i>And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return.</i></p>
-<p align="center">আমি ইচ্ছা করলে তাদেরকে স্ব স্ব স্থানে আকার বিকৃত করতে পারতাম, ফলে তারা আগেও চলতে পারত না এবং পেছনেও ফিরে যেতে পারত না।</p>
-<p align="center"><sub>— Surah Yaseen 36:67</sub></p>
+<h3 align="center" dir="rtl">فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ</h3>
+<p align="center"><i>Then why do you not, if you are not to be recompensed,</i></p>
+<p align="center">যদি তোমাদের হিসাব-কিতাব না হওয়াই ঠিক হয়,</p>
+<p align="center"><sub>— Surah Al-Waaqia 56:86</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
