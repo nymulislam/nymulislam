@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-26<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-27<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ</h3>
-<p align="center"><i>Then why do you not, if you are not to be recompensed,</i></p>
-<p align="center">যদি তোমাদের হিসাব-কিতাব না হওয়াই ঠিক হয়,</p>
-<p align="center"><sub>— Surah Al-Waaqia 56:86</sub></p>
+<h3 align="center" dir="rtl">وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ ۚ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ وَٰسِعٌ عَلِيمٌۭ</h3>
+<p align="center"><i>And to Allah belongs the east and the west. So wherever you [might] turn, there is the Face of Allah. Indeed, Allah is all-Encompassing and Knowing.</i></p>
+<p align="center">পূর্ব ও পশ্চিম আল্লারই। অতএব, তোমরা যেদিকেই মুখ ফেরাও, সেদিকেই আল্লাহ বিরাজমান। নিশ্চয় আল্লাহ সর্বব্যাপী, সর্বজ্ঞ।</p>
+<p align="center"><sub>— Surah Al-Baqara 2:115</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
