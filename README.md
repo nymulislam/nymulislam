@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-28<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-29<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ۚ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ</h3>
-<p align="center"><i>Then is it that when it has [actually] occurred you will believe in it? Now? And you were [once] for it impatient</i></p>
-<p align="center">তাহলে কি আযাব সংঘটিত হয়ে যাবার পর এর প্রতি বিশ্বাস করবে? এখন স্বীকার করলে? অথচ তোমরা এরই তাকাদা করতে?</p>
-<p align="center"><sub>— Surah Yunus 10:51</sub></p>
+<h3 align="center" dir="rtl">أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًۭا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ</h3>
+<p align="center"><i>Does he promise you that when you have died and become dust and bones that you will be brought forth [once more]?</i></p>
+<p align="center">সে কি তোমাদেরকে এই ওয়াদা দেয় যে, তোমরা মারা গেলে এবং মৃত্তিকা ও অস্থিতে পরিণত হলে তোমাদেরকে পুনরুজ্জীবিত করা হবে?</p>
+<p align="center"><sub>— Surah Al-Muminoon 23:35</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
