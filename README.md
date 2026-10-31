@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-30<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-31<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ</h3>
-<p align="center"><i>[Mention] when there were exhibited before him in the afternoon the poised [standing] racehorses.</i></p>
-<p align="center">যখন তার সামনে অপরাহ্নে উৎকৃষ্ট অশ্বরাজি পেশ করা হল,</p>
-<p align="center"><sub>— Surah Saad 38:31</sub></p>
+<h3 align="center" dir="rtl">فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ</h3>
+<p align="center"><i>So they set out, while lowering their voices,</i></p>
+<p align="center">অতঃপর তারা চলল ফিসফিস করে কথা বলতে বলতে,</p>
+<p align="center"><sub>— Surah Al-Qalam 68:23</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
