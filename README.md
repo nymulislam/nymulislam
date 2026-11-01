@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-10-31<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-01<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ</h3>
-<p align="center"><i>So they set out, while lowering their voices,</i></p>
-<p align="center">অতঃপর তারা চলল ফিসফিস করে কথা বলতে বলতে,</p>
-<p align="center"><sub>— Surah Al-Qalam 68:23</sub></p>
+<h3 align="center" dir="rtl">ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ</h3>
+<p align="center"><i>This is what We recite to you, [O Muhammad], of [Our] verses and the precise [and wise] message.</i></p>
+<p align="center">আমি তোমাদেরকে পড়ে শুনাই এ সমস্ত আয়াত এবং নিশ্চিত বর্ণনা।</p>
+<p align="center"><sub>— Surah Aal-i-Imraan 3:58</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
