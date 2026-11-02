@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-01<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-02<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ</h3>
-<p align="center"><i>This is what We recite to you, [O Muhammad], of [Our] verses and the precise [and wise] message.</i></p>
-<p align="center">আমি তোমাদেরকে পড়ে শুনাই এ সমস্ত আয়াত এবং নিশ্চিত বর্ণনা।</p>
-<p align="center"><sub>— Surah Aal-i-Imraan 3:58</sub></p>
+<h3 align="center" dir="rtl">ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌۭ شِدَادٌۭ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًۭا مِّمَّا تُحْصِنُونَ</h3>
+<p align="center"><i>Then will come after that seven difficult [years] which will consume what you saved for them, except a little from which you will store.</i></p>
+<p align="center">এবং এরপরে আসবে দূর্ভিক্ষের সাত বছর; তোমরা এ দিনের জন্যে যা রেখেছিলে, তা খেয়ে যাবে, কিন্তু অল্প পরিমাণ ব্যতীত, যা তোমরা তুলে রাখবে।</p>
+<p align="center"><sub>— Surah Yusuf 12:48</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
