@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-02<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-03<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌۭ شِدَادٌۭ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًۭا مِّمَّا تُحْصِنُونَ</h3>
-<p align="center"><i>Then will come after that seven difficult [years] which will consume what you saved for them, except a little from which you will store.</i></p>
-<p align="center">এবং এরপরে আসবে দূর্ভিক্ষের সাত বছর; তোমরা এ দিনের জন্যে যা রেখেছিলে, তা খেয়ে যাবে, কিন্তু অল্প পরিমাণ ব্যতীত, যা তোমরা তুলে রাখবে।</p>
-<p align="center"><sub>— Surah Yusuf 12:48</sub></p>
+<h3 align="center" dir="rtl">وَمَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّنَ ٱلرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ</h3>
+<p align="center"><i>And no revelation comes to them anew from the Most Merciful except that they turn away from it.</i></p>
+<p align="center">যখনই তাদের কাছে রহমান এর কোন নতুন উপদেশ আসে, তখনই তারা তা থেকে মুখ ফিরিয়ে নেয়।</p>
+<p align="center"><sub>— Surah Ash-Shu'araa 26:5</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
