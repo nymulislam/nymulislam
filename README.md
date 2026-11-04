@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-03<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-04<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَمَا يَأْتِيهِم مِّن ذِكْرٍۢ مِّنَ ٱلرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ</h3>
-<p align="center"><i>And no revelation comes to them anew from the Most Merciful except that they turn away from it.</i></p>
-<p align="center">যখনই তাদের কাছে রহমান এর কোন নতুন উপদেশ আসে, তখনই তারা তা থেকে মুখ ফিরিয়ে নেয়।</p>
-<p align="center"><sub>— Surah Ash-Shu'araa 26:5</sub></p>
+<h3 align="center" dir="rtl">فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ</h3>
+<p align="center"><i>But if they turn away, then say, "I have warned you of a thunderbolt like the thunderbolt [that struck] 'Aad and Thamud.</i></p>
+<p align="center">অতঃপর যদি তারা মুখ ফিরিয়ে নেয়, তবে বলুন, আমি তোমাদেরকে সতর্ক করলাম এক কঠোর আযাব সম্পর্কে আদ ও সামুদের আযাবের মত।</p>
+<p align="center"><sub>— Surah Fussilat 41:13</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
