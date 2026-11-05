@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-04<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-05<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةًۭ مِّثْلَ صَٰعِقَةِ عَادٍۢ وَثَمُودَ</h3>
-<p align="center"><i>But if they turn away, then say, "I have warned you of a thunderbolt like the thunderbolt [that struck] 'Aad and Thamud.</i></p>
-<p align="center">অতঃপর যদি তারা মুখ ফিরিয়ে নেয়, তবে বলুন, আমি তোমাদেরকে সতর্ক করলাম এক কঠোর আযাব সম্পর্কে আদ ও সামুদের আযাবের মত।</p>
-<p align="center"><sub>— Surah Fussilat 41:13</sub></p>
+<h3 align="center" dir="rtl">لَا تُبْقِى وَلَا تَذَرُ</h3>
+<p align="center"><i>It lets nothing remain and leaves nothing [unburned],</i></p>
+<p align="center">এটা অক্ষত রাখবে না এবং ছাড়বেও না।</p>
+<p align="center"><sub>— Surah Al-Muddaththir 74:28</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
