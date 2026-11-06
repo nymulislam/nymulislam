@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-05<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-06<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">لَا تُبْقِى وَلَا تَذَرُ</h3>
-<p align="center"><i>It lets nothing remain and leaves nothing [unburned],</i></p>
-<p align="center">এটা অক্ষত রাখবে না এবং ছাড়বেও না।</p>
-<p align="center"><sub>— Surah Al-Muddaththir 74:28</sub></p>
+<h3 align="center" dir="rtl">ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ۚ لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ۗ وَمَنْ أَصْدَقُ مِنَ ٱللَّهِ حَدِيثًۭا</h3>
+<p align="center"><i>Allah - there is no deity except Him. He will surely assemble you for [account on] the Day of Resurrection, about which there is no doubt. And who is more truthful than Allah in statement.</i></p>
+<p align="center">আল্লাহ ব্যতীত আর কোনোই উপাস্য নেই। অবশ্যই তিনি তোমাদেরকে সমবেত করবেন কেয়ামতের দিন, এতে বিন্দুমাত্র সন্দেহ নেই। তাছাড়া আল্লাহর চাইতে বেশী সত্য কথা আর কার হবে!</p>
+<p align="center"><sub>— Surah An-Nisaa 4:87</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
