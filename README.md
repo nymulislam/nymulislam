@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-08<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-09<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">إِذْ قَالَ مُوسَىٰ لِأَهْلِهِۦٓ إِنِّىٓ ءَانَسْتُ نَارًۭا سَـَٔاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ ءَاتِيكُم بِشِهَابٍۢ قَبَسٍۢ لَّعَلَّكُمْ تَصْطَلُونَ</h3>
-<p align="center"><i>[Mention] when Moses said to his family, "Indeed, I have perceived a fire. I will bring you from there information or will bring you a burning torch that you may warm yourselves."</i></p>
-<p align="center">যখন মূসা তাঁর পরিবারবর্গকে বললেনঃ আমি অগ্নি দেখেছি, এখন আমি সেখান থেকে তোমাদের জন্যে কোন খবর আনতে পারব অথবা তোমাদের জন্যে জ্বলন্ত অঙ্গার নিয়ে আসতে পারব যাতে তোমরা আগুন পোহাতে পার।</p>
-<p align="center"><sub>— Surah An-Naml 27:7</sub></p>
+<h3 align="center" dir="rtl">كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ</h3>
+<p align="center"><i>Like murky oil, it boils within bellies</i></p>
+<p align="center">গলিত তাম্রের মত পেটে ফুটতে থাকবে।</p>
+<p align="center"><sub>— Surah Ad-Dukhaan 44:45</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
