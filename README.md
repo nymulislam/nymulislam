@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-09<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-10<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ</h3>
-<p align="center"><i>Like murky oil, it boils within bellies</i></p>
-<p align="center">গলিত তাম্রের মত পেটে ফুটতে থাকবে।</p>
-<p align="center"><sub>— Surah Ad-Dukhaan 44:45</sub></p>
+<h3 align="center" dir="rtl">وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ</h3>
+<p align="center"><i>But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,</i></p>
+<p align="center">পক্ষান্তরে যে ব্যক্তি তার পালনকর্তার সামনে দন্ডায়মান হওয়াকে ভয় করেছে এবং খেয়াল-খুশী থেকে নিজেকে নিবৃত্ত রেখেছে,</p>
+<p align="center"><sub>— Surah An-Naazi'aat 79:40</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
