@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-10<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-11<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ</h3>
-<p align="center"><i>But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination,</i></p>
-<p align="center">পক্ষান্তরে যে ব্যক্তি তার পালনকর্তার সামনে দন্ডায়মান হওয়াকে ভয় করেছে এবং খেয়াল-খুশী থেকে নিজেকে নিবৃত্ত রেখেছে,</p>
-<p align="center"><sub>— Surah An-Naazi'aat 79:40</sub></p>
+<h3 align="center" dir="rtl">ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَعْرِفُونَهُۥ كَمَا يَعْرِفُونَ أَبْنَآءَهُمُ ۘ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ</h3>
+<p align="center"><i>Those to whom We have given the Scripture recognize it as they recognize their [own] sons. Those who will lose themselves [in the Hereafter] do not believe.</i></p>
+<p align="center">যাদেরকে আমি কিতাব দান করেছি, তারা তাকে চিনে, যেমন তাদের সন্তানদেরকে চিনে। যারা নিজেদেরকে ক্ষতির মধ্যে ফেলেছে, তারা বিশ্বাস স্থাপন করবে না।</p>
+<p align="center"><sub>— Surah Al-An'aam 6:20</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
