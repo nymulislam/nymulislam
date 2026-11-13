@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-12<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-13<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَإِن كَادُوا۟ لَيَفْتِنُونَكَ عَنِ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا غَيْرَهُۥ ۖ وَإِذًۭا لَّٱتَّخَذُوكَ خَلِيلًۭا</h3>
-<p align="center"><i>And indeed, they were about to tempt you away from that which We revealed to you in order to [make] you invent about Us something else; and then they would have taken you as a friend.</i></p>
-<p align="center">তারা তো আপনাকে হটিয়ে দিতে চাচ্ছিল যে বিষয় আমি আপনার প্রতি ওহীর মাধ্যমে যা প্রেরণ করেছি তা থেকে আপনার পদঙ্খলন ঘটানোর জন্যে তারা চুড়ান্ত চেষ্টা করেছে, যাতে আপনি আমার প্রতি কিছু মিথ্যা সম্বন্ধযুক্ত করেন। এতে সফল হলে তারা আপনাকে বন্ধুরূপে গ্রহণ করে নিত।</p>
-<p align="center"><sub>— Surah Al-Israa 17:73</sub></p>
+<h3 align="center" dir="rtl">يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا۟ مَا كُنتُمْ تَعْمَلُونَ</h3>
+<p align="center"><i>On the Day the punishment will cover them from above them and from below their feet and it is said, "Taste [the result of] what you used to do."</i></p>
+<p align="center">যেদিন আযাব তাদেরকে ঘেরাও করবে মাথার উপর থেকে এবং পায়ের নীচ থেকে। আল্লাহ বললেন, তোমরা যা করতে, তার স্বাদ গ্রহণ কর।</p>
+<p align="center"><sub>— Surah Al-Ankaboot 29:55</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
