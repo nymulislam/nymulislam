@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-13<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-14<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">يَوْمَ يَغْشَىٰهُمُ ٱلْعَذَابُ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا۟ مَا كُنتُمْ تَعْمَلُونَ</h3>
-<p align="center"><i>On the Day the punishment will cover them from above them and from below their feet and it is said, "Taste [the result of] what you used to do."</i></p>
-<p align="center">যেদিন আযাব তাদেরকে ঘেরাও করবে মাথার উপর থেকে এবং পায়ের নীচ থেকে। আল্লাহ বললেন, তোমরা যা করতে, তার স্বাদ গ্রহণ কর।</p>
-<p align="center"><sub>— Surah Al-Ankaboot 29:55</sub></p>
+<h3 align="center" dir="rtl">يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ</h3>
+<p align="center"><i>[It is] the Day they will be tormented over the Fire</i></p>
+<p align="center">যেদিন তারা অগ্নিতে পতিত হবে,</p>
+<p align="center"><sub>— Surah Adh-Dhaariyat 51:13</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
