@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-14<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-15<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ</h3>
-<p align="center"><i>[It is] the Day they will be tormented over the Fire</i></p>
-<p align="center">যেদিন তারা অগ্নিতে পতিত হবে,</p>
-<p align="center"><sub>— Surah Adh-Dhaariyat 51:13</sub></p>
+<h3 align="center" dir="rtl">وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ</h3>
+<p align="center"><i>And cups put in place</i></p>
+<p align="center">এবং সংরক্ষিত পানপাত্র</p>
+<p align="center"><sub>— Surah Al-Ghaashiya 88:14</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
