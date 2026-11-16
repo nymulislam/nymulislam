@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-15<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-16<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ</h3>
-<p align="center"><i>And cups put in place</i></p>
-<p align="center">এবং সংরক্ষিত পানপাত্র</p>
-<p align="center"><sub>— Surah Al-Ghaashiya 88:14</sub></p>
+<h3 align="center" dir="rtl">وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ</h3>
+<p align="center"><i>And We rained upon them a rain [of stones]. Then see how was the end of the criminals.</i></p>
+<p align="center">অতএব, দেখ গোনাহগারদের পরিণতি কেমন হয়েছে।</p>
+<p align="center"><sub>— Surah Al-A'raaf 7:84</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
