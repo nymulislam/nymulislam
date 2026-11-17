@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-16<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-17<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَأَمْطَرْنَا عَلَيْهِم مَّطَرًۭا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ</h3>
-<p align="center"><i>And We rained upon them a rain [of stones]. Then see how was the end of the criminals.</i></p>
-<p align="center">অতএব, দেখ গোনাহগারদের পরিণতি কেমন হয়েছে।</p>
-<p align="center"><sub>— Surah Al-A'raaf 7:84</sub></p>
+<h3 align="center" dir="rtl">وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةًۭ لِّيَكُونُوا۟ لَهُمْ عِزًّۭا</h3>
+<p align="center"><i>And they have taken besides Allah [false] deities that they would be for them [a source of] honor.</i></p>
+<p align="center">তারা আল্লাহ ব্যতীত অন্যান্য ইলাহ গ্রহণ করেছে, যাতে তারা তাদের জন্যে সাহায্যকারী হয়।</p>
+<p align="center"><sub>— Surah Maryam 19:81</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
