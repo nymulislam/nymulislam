@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-17<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-18<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةًۭ لِّيَكُونُوا۟ لَهُمْ عِزًّۭا</h3>
-<p align="center"><i>And they have taken besides Allah [false] deities that they would be for them [a source of] honor.</i></p>
-<p align="center">তারা আল্লাহ ব্যতীত অন্যান্য ইলাহ গ্রহণ করেছে, যাতে তারা তাদের জন্যে সাহায্যকারী হয়।</p>
-<p align="center"><sub>— Surah Maryam 19:81</sub></p>
+<h3 align="center" dir="rtl">وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِى بَٰرَكْنَا فِيهَا قُرًۭى ظَٰهِرَةًۭ وَقَدَّرْنَا فِيهَا ٱلسَّيْرَ ۖ سِيرُوا۟ فِيهَا لَيَالِىَ وَأَيَّامًا ءَامِنِينَ</h3>
+<p align="center"><i>And We placed between them and the cities which We had blessed [many] visible cities. And We determined between them the [distances of] journey, [saying], "Travel between them by night or day in safety."</i></p>
+<p align="center">তাদের এবং যেসব জনপদের লোকদের প্রতি আমি অনুগ্রহ করেছিলম সেগুলোর মধ্যবর্তী স্থানে অনেক দৃশ্যমান জনপদ স্থাপন করেছিলাম এবং সেগুলোতে ভ্রমণ নির্ধারিত করেছিলাম। তোমরা এসব জনপদে রাত্রে ও দিনে নিরাপদে ভ্রমণ কর।</p>
+<p align="center"><sub>— Surah Saba 34:18</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
