@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-20<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-21<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ</h3>
-<p align="center"><i>Nor are you worshippers of what I worship.</i></p>
-<p align="center">এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি</p>
-<p align="center"><sub>— Surah Al-Kaafiroon 109:3</sub></p>
+<h3 align="center" dir="rtl">يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ</h3>
+<p align="center"><i>They want to extinguish the light of Allah with their mouths, but Allah refuses except to perfect His light, although the disbelievers dislike it.</i></p>
+<p align="center">তারা তাদের মুখের ফুৎকারে আল্লাহর নূরকে নির্বাপিত করতে চায়। কিন্তু আল্লাহ অবশ্যই তাঁর নূরের পূর্ণতা বিধান করবেন, যদিও কাফেররা তা অপ্রীতিকর মনে করে।</p>
+<p align="center"><sub>— Surah At-Tawba 9:32</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
