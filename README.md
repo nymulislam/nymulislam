@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-22<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-23<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ ۚ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍۢ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ</h3>
-<p align="center"><i>And We saved him from the people who denied Our signs. Indeed, they were a people of evil, so We drowned them, all together.</i></p>
-<p align="center">এবং আমি তাঁকে ঐ সম্প্রদায়ের বিপক্ষে সাহায্য করেছিলাম, যারা আমার নিদর্শনাবলীকে অস্বীকার করেছিল। নিশ্চয়, তারা ছিল এক মন্দ সম্প্রদায়। অতঃপর আমি তাদের সবাইকে নিমজ্জত করেছিলাম।</p>
-<p align="center"><sub>— Surah Al-Anbiyaa 21:77</sub></p>
+<h3 align="center" dir="rtl">طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ</h3>
+<p align="center"><i>Its emerging fruit as if it was heads of the devils.</i></p>
+<p align="center">এর গুচ্ছ শয়তানের মস্তকের মত।</p>
+<p align="center"><sub>— Surah As-Saaffaat 37:65</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
