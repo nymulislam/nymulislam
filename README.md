@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-23<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-24<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ</h3>
-<p align="center"><i>Its emerging fruit as if it was heads of the devils.</i></p>
-<p align="center">এর গুচ্ছ শয়তানের মস্তকের মত।</p>
-<p align="center"><sub>— Surah As-Saaffaat 37:65</sub></p>
+<h3 align="center" dir="rtl">لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ ۚ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ</h3>
+<p align="center"><i>Not equal are the companions of the Fire and the companions of Paradise. The companions of Paradise - they are the attainers [of success].</i></p>
+<p align="center">জাহান্নামের অধিবাসী এবং জান্নাতের অধিবাসী সমান হতে পারে না। যারা জান্নাতের অধিবাসী, তারাই সফলকাম।</p>
+<p align="center"><sub>— Surah Al-Hashr 59:20</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
