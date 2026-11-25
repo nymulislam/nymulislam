@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-24<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-25<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">لَا يَسْتَوِىٓ أَصْحَٰبُ ٱلنَّارِ وَأَصْحَٰبُ ٱلْجَنَّةِ ۚ أَصْحَٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ</h3>
-<p align="center"><i>Not equal are the companions of the Fire and the companions of Paradise. The companions of Paradise - they are the attainers [of success].</i></p>
-<p align="center">জাহান্নামের অধিবাসী এবং জান্নাতের অধিবাসী সমান হতে পারে না। যারা জান্নাতের অধিবাসী, তারাই সফলকাম।</p>
-<p align="center"><sub>— Surah Al-Hashr 59:20</sub></p>
+<h3 align="center" dir="rtl">ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ</h3>
+<p align="center"><i>Then depart from the place from where [all] the people depart and ask forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.</i></p>
+<p align="center">অতঃপর তওয়াফের জন্যে দ্রুতগতিতে সেখান থেকে ফিরে আস, যেখান থেকে সবাই ফিরে। আর আল্লাহর কাছেই মাগফেরাত কামনা কর। নিশ্চয়ই আল্লাহ ক্ষমাকারী, করুনাময়।</p>
+<p align="center"><sub>— Surah Al-Baqara 2:199</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
