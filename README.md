@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-25<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-26<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ</h3>
-<p align="center"><i>Then depart from the place from where [all] the people depart and ask forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.</i></p>
-<p align="center">অতঃপর তওয়াফের জন্যে দ্রুতগতিতে সেখান থেকে ফিরে আস, যেখান থেকে সবাই ফিরে। আর আল্লাহর কাছেই মাগফেরাত কামনা কর। নিশ্চয়ই আল্লাহ ক্ষমাকারী, করুনাময়।</p>
-<p align="center"><sub>— Surah Al-Baqara 2:199</sub></p>
+<h3 align="center" dir="rtl">إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَخْبَتُوٓا۟ إِلَىٰ رَبِّهِمْ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَٰلِدُونَ</h3>
+<p align="center"><i>Indeed, they who have believed and done righteous deeds and humbled themselves to their Lord - those are the companions of Paradise; they will abide eternally therein.</i></p>
+<p align="center">নিশ্চয়ই যারা ঈমান এনেছে ও সৎকাজ করেছে এবং স্বীয় পালনকর্তার সমীপে বিনতি প্রকাশ করেছে তারাই বেহেশতবাসী, সেখানেই তারা চিরকাল থাকবে।</p>
+<p align="center"><sub>— Surah Hud 11:23</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
