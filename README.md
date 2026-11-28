@@ -60,16 +60,16 @@
 | 🛠️ **Building** | LearnHikmah platform &amp; Balzo finance app |
 | 📚 **Learning** | Agentic AI tool-calling, modern backend patterns |
 | 🤝 **Open to** | Full-Stack &amp; AI Engineer roles (Remote or Dhaka) |
-| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-27<!--UPDATED_END--> |
+| 🔄 **Last refreshed** | <!--UPDATED_START-->2026-11-28<!--UPDATED_END--> |
 
 <!--AYAH_START-->
 <p align="center">
   <sub>✦ AYAH OF THE DAY ✦</sub>
 </p>
-<h3 align="center" dir="rtl">فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ</h3>
-<p align="center"><i>So exalted is Allah, the Sovereign, the Truth; there is no deity except Him, Lord of the Noble Throne.</i></p>
-<p align="center">অতএব শীর্ষ মহিমায় আল্লাহ, তিনি সত্যিকার মালিক, তিনি ব্যতীত কোন মাবুদ নেই। তিনি সম্মানিত আরশের মালিক।</p>
-<p align="center"><sub>— Surah Al-Muminoon 23:116</sub></p>
+<h3 align="center" dir="rtl">أَفَمَن يَتَّقِى بِوَجْهِهِۦ سُوٓءَ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ ۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُوا۟ مَا كُنتُمْ تَكْسِبُونَ</h3>
+<p align="center"><i>Then is he who will shield with his face the worst of the punishment on the Day of Resurrection [like one secure from it]? And it will be said to the wrongdoers, "Taste what you used to earn."</i></p>
+<p align="center">যে ব্যক্তি কেয়ামতের দিন তার মুখ দ্বারা অশুভ আযাব ঠেকাবে এবং এরূপ জালেমদেরকে বলা হবে, তোমরা যা করতে তার স্বাদ আস্বাদন কর,-সে কি তার সমান, যে এরূপ নয়?</p>
+<p align="center"><sub>— Surah Az-Zumar 39:24</sub></p>
 <!--AYAH_END-->
 
 <img src="assets/ui/divider-v2.svg" width="100%" alt="" />
